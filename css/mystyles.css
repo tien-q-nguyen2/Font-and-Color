@@ -24,8 +24,28 @@
 }
 
 /* Energetic */
-.energetic {
-    background-color: #008B8B;
+.energetic{
+    background-color: #A22EB2;
+    font-family: 'Electrolize', sans-serif;
+}
+
+.energetic div{
+    background-color: #EB5EFF;
+}
+
+.energetic h1, .energetic h2{
+    color: #ABFF53;
+}
+
+.energetic p{
+    background-color: #ABFF53;/*#493CB2;*/
+    color: #222;
+}
+
+.energetic a{
+    background-color: #ABFF53;
+    color: #222;
+    font-weight: bold;
 }
 
 
@@ -84,7 +104,7 @@
 /* Fun */
 .fun{
     background-color: #B2231F;
-    font-family: 'Kalam', cursive;
+    font-family: 'IM Fell English', serif;
 }
 
 .fun div{
