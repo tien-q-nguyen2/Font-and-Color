@@ -25,19 +25,59 @@
 
 /* Energetic */
 .energetic {
-    background-color: darkcyan;
+    background-color: #008B8B;
 }
 
 
 /* Relaxed */
-.relaxed {
-    background-color: green;
+.relaxed{
+    background-color: #36BCFF;
+    font-family: 'Amiri', serif;
+}
+
+.relaxed div{
+    background-color: #31DCE8;
+}
+
+.relaxed h1, .relaxed h2{
+    color: #444;
+}
+
+.relaxed p{
+    background-color: #31E88E;
+    color: #444;
+}
+
+.relaxed a{
+    background-color: #36FF63;
+    color: #444;
+    font-weight: bold;
 }
 
 
 /* Corporate */
-.corporate {
-    background-color: blue;
+.corporate{
+    background-color: #3F51B5;
+    font-family: 'Kalam', cursive;
+}
+
+.corporate div{
+    background-color: #5C6BC0;
+}
+
+.corporate h1, .corporate h2{
+    color: #C5CAE9;
+}
+
+.corporate p{
+    background-color: #FFF;
+    color: #C5CAE9;
+}
+
+.corporate a{
+    background-color: #CCC;
+    color: #C5CAE9;
+    font-weight: bold;
 }
 
 
@@ -61,7 +101,7 @@
 }
 
 .fun a{
-    background-color: #222;
+    background-color: #FF2E28;
     color: #FCFF76;
     font-weight: bold;
 }
