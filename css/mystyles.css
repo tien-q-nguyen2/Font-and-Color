@@ -1,0 +1,67 @@
+/* Sophisticated */
+.sophisticated{
+    background-color: #6419B2;
+    font-family: 'Playfair Display', serif;
+}
+
+.sophisticated div{
+    background-color: #9C3DFF;
+}
+
+.sophisticated h1, .sophisticated h2{
+    color: #DDD;
+}
+
+.sophisticated p{
+    background-color: #A956FF;
+    color: #FFF;
+}
+
+.sophisticated a{
+    background-color: #222;
+    color: #BBB;
+    font-weight: bold;
+}
+
+/* Energetic */
+.energetic {
+    background-color: darkcyan;
+}
+
+
+/* Relaxed */
+.relaxed {
+    background-color: green;
+}
+
+
+/* Corporate */
+.corporate {
+    background-color: blue;
+}
+
+
+/* Fun */
+.fun{
+    background-color: #B2231F;
+    font-family: 'Kalam', cursive;
+}
+
+.fun div{
+    background-color: #358ACC;
+}
+
+.fun h1, .fun h2{
+    color: #FCFF76;
+}
+
+.fun p{
+    background-color: #FF615C;
+    color: #FCFF76;
+}
+
+.fun a{
+    background-color: #222;
+    color: #FCFF76;
+    font-weight: bold;
+}
