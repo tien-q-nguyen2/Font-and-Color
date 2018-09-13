@@ -1,7 +1,7 @@
 /* Sophisticated */
 .sophisticated{
     background-color: #6419B2;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Noto Serif', serif;
 }
 
 .sophisticated div{
@@ -77,26 +77,26 @@
 
 /* Corporate */
 .corporate{
-    background-color: #3F51B5;
-    font-family: 'Kalam', cursive;
+    background-color: #616e7c;
+    font-family: 'Pontano Sans', sans-serif;
 }
 
 .corporate div{
-    background-color: #5C6BC0;
+    background-color: #afb52b;
 }
 
 .corporate h1, .corporate h2{
-    color: #C5CAE9;
+    color: #424242;
 }
 
 .corporate p{
-    background-color: #FFF;
-    color: #C5CAE9;
+    background-color: #d5d8db;
+    color: #424242;
 }
 
 .corporate a{
-    background-color: #CCC;
-    color: #C5CAE9;
+    background-color: #c0cb33;
+    color: #424242;
     font-weight: bold;
 }
 
@@ -104,15 +104,20 @@
 /* Fun */
 .fun{
     background-color: #B2231F;
-    font-family: 'Vollkorn SC', serif;
+    font-family: 'Kurale', serif;
 }
 
 .fun div{
     background-color: #358ACC;
 }
 
-.fun h1, .fun h2{
+.fun h2{
     color: #FCFF76;
+}
+
+.fun h1 {
+    background-color: #FCFF76;
+    color: #FF2E28;
 }
 
 .fun p{
