@@ -1,4 +1,4 @@
-/* Sophisticated */
+/* ===== Sophisticated ===== */
 .sophisticated{
     background-color: #6419B2;
     font-family: 'Playfair Display', serif;
@@ -23,7 +23,8 @@
     font-weight: bold;
 }
 
-/* Energetic */
+
+/* ===== Energetic ===== */
 .energetic{
     background-color: #A22EB2;
     font-family: 'Electrolize', sans-serif;
@@ -38,7 +39,7 @@
 }
 
 .energetic p{
-    background-color: #ABFF53;/*#493CB2;*/
+    background-color: #ABFF53;
     color: #222;
 }
 
@@ -49,7 +50,7 @@
 }
 
 
-/* Relaxed */
+/* ===== Relaxed ===== */
 .relaxed{
     background-color: #36BCFF;
     font-family: 'Amiri', serif;
@@ -75,7 +76,7 @@
 }
 
 
-/* Corporate */
+/* ===== Corporate ===== */
 .corporate{
     background-color: #616e7c;
     font-family: 'Pontano Sans', sans-serif;
@@ -101,7 +102,7 @@
 }
 
 
-/* Fun */
+/* ===== Fun ===== */
 .fun{
     background-color: #B2231F;
     font-family: 'Kurale', serif;
